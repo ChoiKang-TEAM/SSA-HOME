@@ -18,6 +18,6 @@ public class ClickEv : MonoBehaviour
 
     public void ClickMe()
     {
-        Debug.Log("´­·È´Ù");
+        
     }
 }
