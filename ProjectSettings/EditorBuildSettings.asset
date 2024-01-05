@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Stage1.unity
+    guid: ebea81431b03a184fbe604feb95c738a
+  - enabled: 0
+    path: Assets/Scenes/Stage11.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Stage2.unity
+    guid: a544a988a12b9d446899344203389380
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/0_ChessOfDefence/MainScene.unity
+    guid: 5169633ec88d8524186b8cef7d14c242
+  - enabled: 1
+    path: Assets/0_ChessOfDefence/WorldSelect.unity
+    guid: a8bfafbbc88453f4b91296e98b6a953c
+  - enabled: 1
+    path: Assets/0_ChessOfDefence/SSaToCHESS_R.unity
+    guid: 8ee4d29e46688004c9a2f0e1c2fe8216
+  m_configObjects: {}
